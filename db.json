@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "categoryId": "11",
+            "categoryName": "Educational",
+            "videos": [
+                {
+                    "id": "aa1",
+                    "title": "Title 1",
+                    "video_url": "https://www.youtube.com/watch?v=6gibI4Fo1R8"
+                },
+                {
+                    "id": "ab2",
+                    "title": "The Universe is Hostile to Computers",
+                    "video_url": "https://www.youtube.com/watch?v=6gibI4Fo1R8"
+                }
+            ]
+        },
+        {
+            "categoryId": "21",
+            "categoryName": "Entertainment",
+            "videos": [
+                {
+                    "id": "ba1",
+                    "title": "Title 2",
+                    "video_url": "https://www.youtube.com/watch?v=6gibI4Fo1R8"
+                },
+                {
+                    "id": "bb2",
+                    "title": "I spent 4 Days Inside INDIA'S LONGEST TRAIN (78+ Hours)",
+                    "video_url": "https://www.youtube.com/watch?v=6gibI4Fo1R8"
+                },
+                {
+                    "id": "bc3",
+                    "title": "Title 3",
+                    "video_url": "https://www.youtube.com/watch?v=6gibI4Fo1R8"
+                }
+            ]
+        },
+        {
+            "categoryId": "31",
+            "categoryName": "Business",
+            "videos": [
+                {
+                    "id": "ca1",
+                    "title": "Title 4",
+                    "video_url": "https://www.youtube.com/embed/0XGx_HoDbBs"
+                },
+                {
+                    "id": "cb2",
+                    "title": "Title 5",
+                    "video_url": "https://www.youtube.com/embed/Fe88ckTWyTU"
+                }
+            ]
+        }
+    ]
+}
